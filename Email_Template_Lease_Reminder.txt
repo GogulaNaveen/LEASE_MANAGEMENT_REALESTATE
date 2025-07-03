@@ -1,0 +1,2 @@
+Subject: Lease Expiry Reminder
+Body: Hello, this is a reminder that the lease for {!Lease__c.Property__c} will expire on {!Lease__c.End_Date__c}.

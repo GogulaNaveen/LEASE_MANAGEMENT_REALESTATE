@@ -1,0 +1,3 @@
+Rule Name: End_Date_After_Start_Date
+Formula: End_Date__c < Start_Date__c
+Error Message: End Date cannot be before Start Date.

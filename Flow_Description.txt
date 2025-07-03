@@ -1,0 +1,4 @@
+Name: Lease Expiry Reminder Flow
+Type: Scheduled Flow
+Frequency: Daily
+Logic: If Lease End Date is within 10 days, send email to Manager.
