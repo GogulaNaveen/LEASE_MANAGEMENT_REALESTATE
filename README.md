@@ -23,6 +23,7 @@ This Salesforce-based project is developed to manage real estate lease agreement
 
 ## 📸 Screenshots
 (Screenshots are available in the /Screenshots folder)
+![SmartInternz Screenshot](screenshots/screenshot.png)
 - Custom object setup
 - Trigger execution result
 - Flow builder view
